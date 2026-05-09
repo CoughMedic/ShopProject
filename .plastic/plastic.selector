@@ -1,0 +1,4 @@
+repository "VoxelShopProject/VoxelShopProject@5772726628384@cloud"
+  path "/"
+    br "/main"
+    co "/main"
